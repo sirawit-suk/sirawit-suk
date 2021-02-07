@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ### 💼 Where i am currently working at/as
 - I'm Studying as a Computer Engineering Student @KMITL
 
-### 💻 What i am currently/done working on
-- I'm working on IoT project @KMITL-ESL, PillPlus+ WebApplication 
+### 💻 What i am currently working on
+- SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
+- PillPlus+ Web Application 
 
 ### ✔ What i have done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
