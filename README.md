@@ -22,14 +22,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💼 Where i am currently working at/as
+### :flags: About Me
+- I like :tea: , It's keep me alive.
+- I play sport such as :basketball: :8ball: :bicyclist: :runner: 
+- Playing :piano: is my hobby. 
+- and :guitar: also 
+- Sometime I drink :beer:
+
+### 💼 Where I am currently working at/as
 - I'm Studying as a Computer Engineering Student @KMITL
 
-### 💻 What i am currently working on
+### 💻 What I am currently working on
 - SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
 - PillPlus+ Web Application 
 
-### ✔ What i have done 
+### ✔ What I have done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
 
 ### 📫 Where to find me
