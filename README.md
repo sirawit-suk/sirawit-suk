@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - I'm Studying as a Computer Engineering Student @KMITL
 
 ### 💻 What i am currently/done working on
-- I'm working on IoT project @ESL, PillPlus+ WebApplication 
+- I'm working on IoT project @KMITL-ESL, PillPlus+ WebApplication 
 
 ### ✔ What i have done 
-- The Owner of SmartRefrigerator MK.I project @ESL
+- The Owner of SmartRefrigerator MK.I project @KMITL-ESL
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/pop.sukwattanavit/) 
