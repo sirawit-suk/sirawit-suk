@@ -8,7 +8,7 @@
 
 
 ### 🏙 Where I am currently working at/as
-- I'm Studying as a Computer Engineering Student @KMITL
+- I'm a 2th year Computer Engineering Student [@KMITL](https://www.kmitl.ac.th/en)
 
 ### ✔ What I have done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
