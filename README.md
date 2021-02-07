@@ -22,22 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :flags: About Me
-- I like :tea: , It's keep me alive.
-- I play sport such as :basketball: :8ball: :bicyclist: :runner: 
-- Playing :piano: is my hobby. 
-- and :guitar: also 
-- Sometime I drink :beer:
-
-### 💼 Where I am currently working at/as
+### 🏙 Where I am currently working at/as
 - I'm Studying as a Computer Engineering Student @KMITL
-
-### 💻 What I am currently working on
-- SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
-- PillPlus+ Web Application 
 
 ### ✔ What I have done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
+
+### 🔥 What I am currently working on
+- SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
+- PillPlus+ Web Application 
+
+
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/pop.sukwattanavit/) 
