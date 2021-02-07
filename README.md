@@ -21,7 +21,7 @@
 ### 📫 Where to find me
 - [My Facebook](https://www.facebook.com/pop.sukwattanavit/) 
 - [My Instagram](https://www.instagram.com/ppop.srws/)
-- Contact me through my Email [62010948@kmitl.ac.th]
+- Contact me through my Email 62010948@kmitl.ac.th
 
 
 <!-- my fav theme
