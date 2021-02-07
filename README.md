@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - I'm working on IoT project @KMITL-ESL, PillPlus+ WebApplication 
 
 ### ✔ What i have done 
-- The Owner of SmartRefrigerator MK.I project @KMITL-ESL(https://github.com/KMITL-ESL)
+- The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/pop.sukwattanavit/) 
