@@ -1,5 +1,5 @@
 ### Have you try DARK MODE yet? 🌟
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true&layout=compact&local=TH)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true&layout=compact&local=th)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sirawit-suk/sirawit-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
