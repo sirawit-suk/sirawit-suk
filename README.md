@@ -18,7 +18,7 @@
 - PillPlus+ Web Application 
 
 
-### 📫 Where to find me
+### 📬 Contact me mail
 - Facebook : [Sirawit Sukwattanavit](https://www.facebook.com/pop.sukwattanavit/) 
 - Instagram : [ppop.srws](https://www.instagram.com/ppop.srws/)
 - Email : 62010948@kmitl.ac.th
