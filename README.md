@@ -1,4 +1,6 @@
 ## Have you try DARK MODE yet? 🌟
+
+### Hello There, My name is Pop <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,6 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💼 Where i am currently working at/as
+- I'm Studying as a Computer Engineering Student @KMITL
 
+### 💻 What i am currently/done working on
+- I'm working on IoT project @ESL, PillPlus+ WebApplication 
+
+### ✔ What i have done 
+- The Owner of SmartRefrigerator MK.I project @ESL
+
+### 📫 Where to find me
+- [Facebook](https://www.facebook.com/pop.sukwattanavit/) 
+- [Instagram](https://www.instagram.com/ppop.srws/) 
 
 <!-- monokai , slateorange-->
