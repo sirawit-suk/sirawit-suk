@@ -1,8 +1,8 @@
 ### Have you try DARK MODE yet? 🌟
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=Gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=Gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&theme=gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&theme=Gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
