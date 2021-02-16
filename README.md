@@ -4,8 +4,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&layout=compact)
 ](https://wakatime.com/dashboard)
+-->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12)]
 
 ### 💻 Where I am currently working at/as
 - I'm a 2th year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th/en)
