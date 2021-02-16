@@ -9,7 +9,7 @@
 ](https://wakatime.com/dashboard)
 -->
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&theme=slateorange)
 
 ### 💻 Where I am currently working at/as
 - I'm a 2th year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th/en)
