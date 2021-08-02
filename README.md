@@ -12,10 +12,15 @@
 
 ### ✔ What I have done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
+- PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
 
 ### 🔥 What I am currently working on
+- Learn Javascript more / Learn Angular
+- Interesting in Unity game maker / C# project
+
+### 🚧 Stop project  
 - SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
-- PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
+
 
 
 ### 📬 Contact me mail
