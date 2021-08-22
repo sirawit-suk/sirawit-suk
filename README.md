@@ -15,7 +15,7 @@
 - PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
 
 ### 🔥 What I am currently working on
-- Learn Javascript more / Learn Angular
+- Learn JavaScript / TypeScript / Angular
 - Interesting in Unity game maker / C# project
 
 ### 🚧 Stop project  
@@ -23,7 +23,7 @@
 
 
 
-### 📬 Contact me mail
+### 📬 Contact me
 - Facebook : [Sirawit Sukwattanavit](https://www.facebook.com/pop.sukwattanavit/) 
 - Instagram : [ppop.srws](https://www.instagram.com/ppop.srws/)
 - Email : 62010948@kmitl.ac.th
