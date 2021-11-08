@@ -15,13 +15,12 @@
 - PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
 
 ### 🔥 What I am currently working on
-- Learn JavaScript / TypeScript / Angular
+- TongFahThai Project, Khaota Creative Development CO., LTD
+- Learn JavaScript / TypeScript / Angular / ASP.NET / C#(.NET)
 - Interesting in Unity game maker / C# project
 
 ### 🚧 Stop project  
 - SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
-
-
 
 ### 📬 Contact me
 - Facebook : [Sirawit Sukwattanavit](https://www.facebook.com/pop.sukwattanavit/) 
