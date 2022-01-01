@@ -18,6 +18,7 @@
 - TongFahThai Project, Khaota Creative Development CO., LTD
 - Learn JavaScript / TypeScript / Angular / ASP.NET / C#(.NET)
 - Interesting in Unity game maker / C# project
+- (Lately) HPC, High Performance Computing, Parallel program and optimization
 
 ### 🚧 Stop project  
 - SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
