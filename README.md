@@ -7,14 +7,14 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=popeyeza12&theme=slateorange&layout=compact&hide_border=true&v=2)
 ](https://wakatime.com/dashboard)
 
-### 💻 Where I am currently working at/as
+### 💻 Where am I currently working at/as
 - I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th/en)
 
-### ✔ What I have done 
+### ✔ What have I done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
 - PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
 
-### 🔥 What I am currently working on
+### 🔥 What am I currently working on
 - TongFahThai Project, Khaota Creative Development CO., LTD
 - Learn JavaScript / TypeScript / Angular / ASP.NET / C#(.NET)
 - Interesting in Unity game maker / C# project / High Performance Computing, Parallel program and Optimization
