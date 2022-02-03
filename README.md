@@ -13,11 +13,12 @@
 ### ✔ What have I done 
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
 - PillPlus+ Web Application [@PillPlus](https://github.com/PillPlus)
+- TongFahThai Project, Khaota Creative Development CO., LTD (Frontend-Angular, Backend-C#(.Net), Postgresql)
 
 ### 🔥 What am I currently working on
-- TongFahThai Project, Khaota Creative Development CO., LTD
-- Learn JavaScript / TypeScript / Angular / ASP.NET / C#(.NET)
-- Interesting in Unity game maker / C# project / High Performance Computing, Parallel program and Optimization
+- Learn JavaScript / TypeScript / HTML / CSS / Angular / ASP.NET / C#(.NET) 
+- Participating as a Pisciner in [42Bangkok-Piscine-3nd](https://github.com/sirawit-suk/42Bangkok-Piscine-3nd), BKK Thailand. (Shell, Vim, Makefile, C basic-to-advance) 
+- Interesting in Unity game maker / C# project / High Performance Computing, Parallel program and Optimization.
 
 ### 🚧 Stop project  
 - SmartRefrigerator MK.II project (IoT) [@KMITL-ESL](https://github.com/KMITL-ESL)
