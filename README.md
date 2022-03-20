@@ -8,7 +8,7 @@
 ](https://wakatime.com/dashboard)
 
 ### 💻 Where am I currently working at/as
-- I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th/en)
+- I'm a 3rd year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
 
 ### ✔ What have I done
 - The Owner of SmartRefrigerator MK.I project [@KMITL-ESL](https://github.com/KMITL-ESL)
