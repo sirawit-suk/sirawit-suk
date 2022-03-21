@@ -1,5 +1,6 @@
 ## 🌟 " Have you try DARK MODE yet ? " 🌟
-[![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=000)](https://open.spotify.com/playlist/37i9dQZF1E35jB9haBulio)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314syv3rgch3ver4cqoepjuyrb5a&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=314syv3rgch3ver4cqoepjuyrb5a&redirect=true)
+
 ### I'm Pop.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="17.5px">😄 Nice to meet ya~!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
