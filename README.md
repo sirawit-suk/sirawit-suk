@@ -10,12 +10,12 @@
 
 ### 💻 Where am I currently working at/as
 - I'm a 4th year student, studying computer engineering [@KMITL](https://www.kmitl.ac.th)
-- Internship full-stack developer for 6 months at ExxonMobil IT (EMIT) [@ExxonMobil](https://github.com/ExxonMobil)
+- Internship as a full-stack developer for 6 months at ExxonMobil IT (EMIT) [@ExxonMobil](https://github.com/ExxonMobil)
 
 ### ✔ What have I done
 - The initiator of SmartRefrigerator MK.I project in [@KMITL-ESL](https://github.com/KMITL-ESL)
 - E-music (Frontend-JavaFX) [@E_Music](https://github.com/Poomipat-Ch/E_Music)
-- PillPlus+ (Frontend-React / Tailwind CSS) [@PillPlus](https://github.com/PillPlus)
+- PillPlus+ (Frontend-React / Tailwind CSS) [@PillPlus](https://github.com/PillPlus-Team)
 - 9Tham (Frontend-React / Tailwind CSS) [@9Tham](https://github.com/SOFT-STUDIO-GROUPWORK)
 - Wongnok (Frontend-Next.js / MUI) [@Wongnok](https://github.com/TOC-GROUPWORK)
 - TongFahThai Project, Khaota Creative Development CO., LTD (Frontend-Angular, Backend-C#(.Net), Postgresql)
