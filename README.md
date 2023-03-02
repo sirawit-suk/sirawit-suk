@@ -2,10 +2,10 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314syv3rgch3ver4cqoepjuyrb5a&cover_image=false&theme=default&bar_color_cover=false)](https://open.spotify.com/playlist/37i9dQZF1E35jB9haBulio) -->
 
 ### I'm Pop. 👋😄 Nice to meet you~!
-[![Anurag's GitHub stats (refresh the page again)](https://github-readme-stats-sirawit-suk.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs (refresh the page again)](https://github-readme-stats-sirawit-suk.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats (refresh page again)](https://github-readme-stats-sirawit-suk.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Programming Languages (refresh page again)](https://github-readme-stats-sirawit-suk.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats (refresh the page again)](https://github-readme-stats-sirawit-suk.vercel.app/api/wakatime?username=popeyeza12&theme=slateorange&layout=compact&hide_border=true&v=2)
+[![Wakatime stats (refresh page again)](https://github-readme-stats-sirawit-suk.vercel.app/api/wakatime?username=popeyeza12&theme=slateorange&layout=compact&hide_border=true&v=2)
 ](https://wakatime.com/dashboard)
 
 ### 💻 Where am I currently working at/as
