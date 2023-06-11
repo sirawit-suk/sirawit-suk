@@ -34,9 +34,8 @@
 
 ### 📬 Contact me
 - Linkedin : [Sirawit Sukwattanavit](https://www.linkedin.com/in/sirawit-suk/)
-- Facebook : [Sirawit Sukwattanavit](https://www.facebook.com/pop.sukwattanavit/)
 - Instagram : [ppop.srws](https://www.instagram.com/ppop.srws/)
-- Email : sirawit.suk01@gmail.com (work email), 62010948@kmitl.ac.th (university email)
+- Email : sirawit.suk01@gmail.com
 - Mobile: (+66)83-276-1175
 
 
