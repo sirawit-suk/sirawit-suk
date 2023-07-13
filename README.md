@@ -36,7 +36,6 @@
 - Linkedin : [Sirawit Sukwattanavit](https://www.linkedin.com/in/sirawit-suk/)
 - Instagram : [ppop.srws](https://www.instagram.com/ppop.srws/)
 - Email : sirawit.suk01@gmail.com
-- Mobile: (+66)83-276-1175
 
 
 <!-- my fav theme
