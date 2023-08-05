@@ -2,6 +2,9 @@
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314syv3rgch3ver4cqoepjuyrb5a&cover_image=false&theme=default&bar_color_cover=false)](https://open.spotify.com/playlist/37i9dQZF1E35jB9haBulio) -->
 
 ### I'm Pop. 👋😄 Nice to meet you~!
+
+![image](https://github.com/sirawit-suk/sirawit-suk/assets/56272903/25b2540d-8daf-4bc0-926d-80cd988dcd3b)
+
 [![GitHub stats (refresh page again)](https://github-readme-stats-sirawit-suk.vercel.app/api?username=sirawit-suk&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Programming Languages (refresh page again)](https://github-readme-stats-sirawit-suk.vercel.app/api/top-langs/?username=sirawit-suk&layout=compact&theme=slateorange&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,6 +44,7 @@
 <!-- my fav theme
 - monokai
 - slateorange
+- one dark
 -->
 
 
